@@ -1,7 +1,3 @@
----
-tags:
-team_num: 1
----
 # SplitCoder 
 
 ## team
